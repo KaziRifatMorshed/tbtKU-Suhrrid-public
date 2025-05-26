@@ -1,0 +1,28 @@
+    <br>
+    <div class="footer-links">
+        <a href="./TermsAndConditions.php">Terms and Conditions</a>
+        <a href="./ContactAdmin.php">Contact Admin</a>
+        <a href="./Guidelines.php">Guidelines</a>
+        <a href="./About.php">About</a>
+    </div>
+    <br>
+    <p class="followTBTKU">Follow tbtKU :
+        <a href="https://www.facebook.com/tbtKU"><i class="fa-brands fa-facebook fa-xl"></i></a>
+        <a href="http://instagram.com/tbt_ku"><i class="fa-brands fa-instagram fa-xl"></i></a>
+        <a href="https://www.youtube.com/@tbtKU"><i class="fa-brands fa-youtube fa-xl"></i></a>
+        <a href=" https://t.me/tbtKU"><i class="fa-brands fa-telegram fa-xl"></i></a>
+    </p>
+    <!-- <br> -->
+    <p class="FP" id="FooterText">
+    <b>Thoughts Behind the Khulna University</b> is an online community connecting KU's students, alumni, and
+    well-wishers, spreading positivity. <br>
+    The community also helps students facing problems, supports campaigns,
+    and connects people with a shared passion for the university.
+    TbtKU vows to provide reliable, innovative, and relevant information and content of Khulna University
+    while creating a supportive community promoting and spreading the values and knowledge as well as the
+    welfare of the students of Khulna University.
+    <br>
+    <br>
+    <i>Made with ❤️ at Khulna University.</i><br>
+    © 2025, thoughts behind the Khulna University (tbtKU). All rights reserved.
+    </p>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms and Conditions</title>
+</head>
+<body>
+    <h1>Terms and Conditions</h1>
+    <h2>বাংলা:</h2>
+    <ol>
+        <li>বিজ্ঞাপনে প্রদত্ত সমস্ত তথ্য নির্ভুল, সত্য এবং আপডেটেড হতে হবে। মিথ্যা মূল্য নির্ধারণ, জাল ছবি বা বিভ্রান্তিকর বর্ণনার মতো উপস্থাপনা কঠোরভাবে নিষিদ্ধ।</li>
+        <li>আপনি যদি প্রতারিত হন তবে এডমিন বা এই প্ল্যাটফর্ম কোনও দায় বহন করবে না।</li>
+        <li>ব্যবহারকারীকে নিয়মিত তাদের বিজ্ঞাপন আপডেট করতে হবে, বিশেষ করে যখন বিজ্ঞাপনগুলি আর উপলব্ধ না থাকে বা বিবরণ পরিবর্তিত হয়।</li>
+        <li>একটি নির্দিষ্ট সময় (১৫ দিন) পরে প্ল্যাটফর্ম দ্বারা পুরানো বা নিষ্ক্রিয় বিজ্ঞাপনগুলি সরিয়ে ফেলা হতে পারে।</li>
+        <li>যদি কোনও বিজ্ঞাপন নিষ্ক্রিয় হয়ে যায়, তাহলে ব্যবহারকারী (যিনি এটি পোস্ট করেছেন) এটি সক্রিয় করার জন্য পোস্টটি পুনর্নবীকরণ(রিনিউ) করতে পারেন।</li>
+        <li>আপনার যতটা সম্ভব তথ্য সরবরাহ করা উচিত।</li>
+        <li>বিজ্ঞাপনগুলি অবৈধ কার্যকলাপ যেমন অনুমতি ছাড়া সাবলেট করা, অননুমোদিত পরিবর্তন, বা কোনও ধরণের জালিয়াতির প্রচার বা সহায়তা করা নিষিদ্ধ।</li>
+        <li>প্ল্যাটফর্মটি শুধুমাত্র ব্যক্তিগত ব্যবহারের জন্য তৈরি। কোনও অবৈধ কার্যকলাপ, বাণিজ্যিক প্রতিষ্ঠান বা এজেন্ট ব্যক্তি পরিচয়ে বিজ্ঞাপন পোস্ট করার অনুমতি নেই। কোনও বাণিজ্যিক উদ্দেশ্যে পোস্ট করা হলে বিজ্ঞাপন সরিয়ে ফেলা হবে।</li>
+        <li>অন্যের বিজ্ঞাপন/তথ্য অনুলিপি করা বা হেরফের করা কঠোরভাবে নিষিদ্ধ। এই ধরনের কার্যকলাপের ফলে শাস্তি হতে পারে (উদাহরণঃ এই প্ল্যাটফর্ম ব্যবহার থেকে নিষিদ্ধ হওয়া)।</li>
+        <li>কোনও নিয়ম ভঙ্গকারী বা নীতিগতভাবে অনুপযুক্ত কোনও বিজ্ঞাপন স্থগিত করা হতে পারে এবং ব্যবহারকারী প্ল্যাটফর্ম অ্যাডমিন প্যানেল থেকে একটি সতর্কতা পেতে পারেন।</li>
+        <li>উপরের যেকোনো নিয়ম ভঙ্গকারী যে কেউ প্ল্যাটফর্ম থেকে স্থায়ীভাবে নিষিদ্ধ হতে পারেন।</li>
+    </ol>
+    <h2>English:</h2>
+    <ol>
+        <li>All information provided in the advertisement must be accurate, truthful, and up-to-date. Misrepresentation of facts, such as false pricing, fake photos, or misleading descriptions, is strictly prohibited.</li>
+        <li>Admins or this platform do not bear any responsibilities if you get scammed.</li>
+        <li>Users are responsible for updating their advertisements regularly, especially when the property is no longer available or details have changed.</li>
+        <li>Outdated or inactive advertisements may be removed by the platform after a certain period (15 days).</li>
+        <li>If any advertisement becomes inactive, the user (who posted it) can renew the post to make it active.</li>
+        <li>You should provide as much information as possible.</li>
+        <li>Advertisements must not promote or facilitate illegal activities, such as subletting without permission, unauthorized modifications to the property, or any form of fraud.</li>
+        <li>The platform is intended for individual use only. Any illegal activities, commercial entities or agents posing as individuals to post advertisements are not allowed. Any advertisement found to be posted for any commercial purpose will be removed.</li>
+        <li>Copying or manipulating other’s advertisements/information is strictly forbidden. Such activities may lead to penalties (such as getting banned from using this platform).</li>
+        <li>Any advertisement breaking any rule or ethically improper may get suspended and the user may receive a warning from the platform admin panel.</li>
+        <li>Anyone breaking any of the above rules can get banned from the platform permanently.</li>
+    </ol>
+</body>
+</html>

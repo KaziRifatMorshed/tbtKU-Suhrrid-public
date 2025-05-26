@@ -1,0 +1,16 @@
+  <li>[17 May 2025] Application server restart scheduled for 09:00 AM, short downtime expected.</li>
+  <li>[12 May 2025] Firmware update applied to network switches at 06:00 PM, brief network blips possible.</li>
+  <li>[07 May 2025] Storage expansion activity from 02:00 AM to 04:00 AM, potential read-only delay.</li>
+  <li>[03 May 2025] Load balancer reconfiguration planned for 08:00 AM, may cause temporary connection resets.</li>
+  <li>[30 April 2025] Monthly system report generation at 11:00 PM, no user impact expected.</li>
+  <li>[26 April 2025] Emergency maintenance window set for 07:00 AM, to address critical security issue.</li>
+  <li>[22 April 2025] System performance tuning at 04:00 PM, minimal impact anticipated.</li>
+  <li>[18 April 2025] API update scheduled for 09:00 AM, integration services may be affected.</li>
+  <li>[15 April 2025] Hardware replacement from 01:00 AM to 03:00 AM, service will be unavailable.</li>
+  <li>[10 April 2025] New feature rollout at 12:00 PM, temporary slowdown possible.</li>
+  <li>[05 April 2025] Scheduled backup operations from 03:00 AM to 04:00 AM, read-only access available.</li>
+  <li>[01 April 2025] Security patch deployment planned for 06:00 AM, no downtime expected.</li>
+  <li>[28 March 2025] Network optimization will occur between 10:00 PM and 11:00 PM, minor latency may be experienced.</li>
+  <li>[25 March 2025] Database upgrade scheduled for 02:00 AM, expect brief service interruptions.</li>
+  <li>[22 March 2025] Server will be under maintenance from 22 March 11:59 PM to 23 March 05:00 AM (5 Hours)</li>
+

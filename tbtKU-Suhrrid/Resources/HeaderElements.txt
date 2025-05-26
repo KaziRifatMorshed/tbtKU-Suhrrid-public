@@ -1,0 +1,30 @@
+<nav>
+    <ul class="nav-menu">
+        <li>
+            <img src="logos/tbtku_logo.webp" alt="tbtKU" height="40">
+        </li>
+        <li><a href="./index.php">Home</a></li>
+        <li class="dropdown">
+            <a href="#">Services</a>
+            <div class="dropdown-content">
+                <a href="./SearchRooms.php?room_ad_purpose=search_room">I'm Searching Room<br>আমি রুম খুঁজছি</a>
+                <a href="./SearchRooms.php?room_ad_purpose=room_to-let">Room To-Let<br>রুম ভাড়া দিব/হবে</a>
+                <a href="./SearchItems.php?item_ad_purpose=search_or_buy_item">Search and Buy Old Items<br>পুরানো জিনিসপত্র খুঁজুন এবং কিনুন</a>
+                <a href="./SearchItems.php?item_ad_purpose=sell_item">Sell Old Items<br>পুরাতন জিনিসপত্র বিক্রি করুন</a>
+            </div>
+        </li>
+        <li><a href="./Announcements.php">Announcements</a></li>
+        <li><a href="./Guidelines.php">Guidelines</a></li>
+        <li>
+            <?php
+                $buttonUrl = isset($_SESSION["user_id"])
+                    ? "./Profile.php?uid=" . $_SESSION["user_id"]
+                    : "./Login.php";
+                $buttonText = isset($_SESSION["user_id"]) ? "Profile" : "Login";
+            ?>
+            <button class="bt" type="button" onclick="window.location.href='<?php echo $buttonUrl; ?>';">
+                <?php echo $buttonText; ?>
+            </button>
+        </li>
+    </ul>
+</nav>
