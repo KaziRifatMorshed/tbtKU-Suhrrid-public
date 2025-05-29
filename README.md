@@ -1,6 +1,6 @@
 # tbtKU-Suhrrid
 Project Name: Suhrrid (সুহৃদ)  
-Website: (www.tbtku-suhrrid.me)[www.tbtku-suhrrid.me]  
+Website: [www.tbtku-suhrrid.me](www.tbtku-suhrrid.me)  , [https://tbtku-suhrrid.free.nf/?i=1](https://tbtku-suhrrid.free.nf/?i=1)  
 Suhrrid (সুহৃদ) or tbtKU Suhrrid is a Student Service Platform for the students of Khulna University, which will be a well-wisher or benefactor for searching rooms/messes and buying &amp; selling used items.
 
 
@@ -94,3 +94,5 @@ Non-profit, Social Service, Automation.
     http://localhost/tbtKU-Suhrrid/tbtKU-Suhrrid/
    ```
 
+# NOTE
+This repo is an older version of the deployed platform. This source code is made publicly available for showcasing purposes. The code here is backdated, as this is the version that was submitted to the course teacher.
