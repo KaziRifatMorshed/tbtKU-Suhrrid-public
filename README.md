@@ -1,6 +1,7 @@
 # tbtKU-Suhrrid
 Project Name: Suhrrid (সুহৃদ)  
-Suhrrid (সুহৃদ) or tbtKU Suhrrid is a Student Service Platform for the students of Khulna University which will be a well-wisher or benefactor for searching rooms/messes and buying &amp; selling used items.
+Website: (www.tbtku-suhrrid.me)[www.tbtku-suhrrid.me]  
+Suhrrid (সুহৃদ) or tbtKU Suhrrid is a Student Service Platform for the students of Khulna University, which will be a well-wisher or benefactor for searching rooms/messes and buying &amp; selling used items.
 
 
 # Course Details
@@ -11,15 +12,15 @@ Course Teacher: Aminul Islam (Assistant Professor, CSE Discipline, KU)
 
 # Proposed By:
 Kazi Rifat Morshed (Student ID: 230220)  
-Md Mahfuzur Rahman (Student ID: 230228)  
 Md Rimon Islam (Student ID: 230236)  
+Md Mahfuzur Rahman (Student ID: 230228)  
 
 
 # Video Demonstration
 [Video Link](https://kazirifatmorshed.github.io/tbtku-suhrrid.html)
 
 # Objectives:
-Developing a platform for automating manual processes of:  
+Developing a platform for automating the manual processes of:  
 - advertising room/hostel/apartment rent  
 - buying and selling old/used stuff   
 
@@ -27,7 +28,7 @@ Developing a platform for automating manual processes of:
 Non-profit, Social Service, Automation.
 
 # Features
-- The registration system requires student ID for the students of Khulna University and addresses for outsiders. 
+- The registration system requires a student ID for the students of Khulna University and an address for outsiders. 
 - Email-based login system.
 - Information on room/hostel/apartment, including how many rooms are available, how many people will be needed, on which floor, location, photo of building and room, photo of the washroom, and total rent cost (excluding bills and charges). electricity-gas-water-security-internet bills, room size, garage availability, balcony size, etc. 
 - Removal of advertisement after the transaction of approval.
